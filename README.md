@@ -1,4 +1,4 @@
-# Analisis-de-los-Censos-Portugueses-2011-IV
+# Analisis-de-los-Censos-Portugueses-2011-III
 Cuarto análisis estadístico y demográfico sobre los edificios y los residentes mayores de las freguesias de São José y Benfica (Censo 2011, Portugal) usando R.
 
 Este proyecto consiste en un análisis estadístico y demográfico de los datos del Censo de Portugal del año 2011 con respecto a las **freguesias de São José y Benfica**. El objetivo principal es identificar patrones en la **población mayor** de estas freguesias — relacionados con los **grupos de edad, el género y el estado civil** — a través de herramientas de ciencia de datos.
@@ -31,6 +31,6 @@ Es fundamental evidenciar que el Censo de 2011 constituye la **última informaci
 En el contexto de estos datos, se encuentran similitudes con las realidades del **Bairro de São José**, pero estas concordancias deben ser tomadas en consideración con las debidas cautelas:
 1. El Bairro de São José, como cualquier otro barrio, es una **realidad aproximada** que pertenece exclusivamente al dominio de la tradición oral.
 2. Sus residentes consideraban que la fracción de la *Avenida da Liberdade*, integrada administrativamente en la Freguesia de São José, no pertenecía conceptualmente al barrio.
-3. En lo relativo a la población anciana residente, a diferencia de lo que ocurre en el Bairro de São José, es posible que la *Avenida da Liberdade* presente una ocupación residencial concentrada, sobre todo, en los subtramos de menor edad de dicha población.
+3. En lo relativo a la población anciana residente, a diferencia de lo que ocurre en el *Bairro de São José*, es posible que la *Avenida da Liberdade* presente una ocupación residencial concentrada, sobre todo, en los subtramos de menor edad de dicha población.
 
 Estas cuestiones metodológicas y cualitativas fueron identificadas mediante **etnografías y entrevistas semiestructuradas**, y se presentan de manera detallada en mi **Tesis Doctoral**.
