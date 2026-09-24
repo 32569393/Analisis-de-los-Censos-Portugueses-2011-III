@@ -1,5 +1,5 @@
 # Analisis-de-los-Censos-Portugueses-2011-III
-Cuarto análisis estadístico y demográfico sobre los edificios y los residentes mayores de las freguesias de São José y Benfica (Censo 2011, Portugal) usando R.
+Tercer análisis estadístico y demográfico sobre los edificios y los residentes mayores de las freguesias de São José y Benfica (Censo 2011, Portugal) usando R.
 
 Este proyecto consiste en un análisis estadístico y demográfico de los datos del Censo de Portugal del año 2011 con respecto a las **freguesias de São José y Benfica**. El objetivo principal es identificar patrones en la **población mayor** de estas freguesias — relacionados con los **grupos de edad, el género y el estado civil** — a través de herramientas de ciencia de datos.
 
@@ -26,7 +26,7 @@ El objetivo metodológico de esta publicación es presentar y discutir los resul
 *   *¿Existen diferencias importantes entre ambas freguesias en lo que respecta a la distribución de grupos de edad, géneros y estados civiles?*
 
 ## 📜 Contexto Histórico y Etnográfico
-Es fundamental evidenciar que el Censo de 2011 constituye la **última información censal disponible sobre la Freguesia de São José**, dado que posteriormente ocurrió la reorganización administrativa de la ciudad de Lisboa (2012).
+Es fundamental evidenciar que el Censo de 2011 constituye la **última información censal disponible sobre la Freguesia de São José**, dado que, posteriormente, ocurrió la reorganización administrativa de la ciudad de Lisboa (2012).
 
 En el contexto de estos datos, se encuentran similitudes con las realidades del *Bairro de São José*, pero estas concordancias deben ser tomadas en consideración con las debidas cautelas:
 1. El *Bairro de São José*, como cualquier otro barrio, es una **realidad aproximada** que pertenece exclusivamente al dominio de la tradición oral.
