@@ -33,4 +33,9 @@ En el contexto de estos datos, se encuentran similitudes con las realidades del 
 2. Sus residentes consideraban que la fracción de la *Avenida da Liberdade*, integrada administrativamente en la **Freguesia de São José**, no pertenecía conceptualmente al barrio.
 3. En lo relativo a la población anciana residente, a diferencia de lo que ocurre en el *Bairro de São José*, es posible que la *Avenida da Liberdade* presente una ocupación residencial concentrada, sobre todo, en los subtramos de menor edad de dicha población.
 
-Estas cuestiones metodológicas y cualitativas fueron identificadas mediante **etnografías y entrevistas semiestructuradas**, y se presentan de manera detallada en mi **Tesis Doctoral**.
+Estas cuestiones metodológicas y cualitativas fueron identificadas mediante **etnografías y entrevistas semiestructuradas**, y se presentan de manera detallada en mi **Tesis Doctoral en Sociología**.
+
+## Documentación relacionada con este proyecto:
+Puede consultar el trabajo desarrollado a través de los siguientes enlaces:
+* **Versión en Markdown:** [Leer documento complementario en el repositorio](Análisis_CensosIII.md)
+* * **Publicación Oficial:** [Acceder a la publicación en línea de mi Tesis Doctoral en Sociología](http://hdl.handle.net/10071/19979)
